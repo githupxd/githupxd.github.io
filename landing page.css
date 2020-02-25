@@ -5,14 +5,14 @@
 }
 
 .landing-page{
-	background-color: blue;
+	background-color: #036bfc;
 	text-align: center;
 }
 
 .woda-zrodlana{
 	width: 100%;
 	text-align: center;
-	background-color: #0d0d0d;
+	background-color: #0390fc;
 	display: block;
 	text-decoration: none;
 	color: white;
@@ -27,7 +27,7 @@ a:hover{
 .about-us{
 	width: 100%;
 	text-align: center;
-	background-color: #0d0d0d;
+	background-color: #0390fc;
 	display: block;
 	text-decoration: none;
 	color: white;
