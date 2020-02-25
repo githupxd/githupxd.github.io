@@ -5,39 +5,28 @@
 }
 
 .landing-page{
-	background-color: #036bfc;
+	background-color: #091540;
 	text-align: center;
 }
 
-.woda-zrodlana{
-	width: 100%;
-	text-align: center;
-	background-color: #0390fc;
-	display: block;
-	text-decoration: none;
-	color: white;
+.first-row{
+	background-color: #0D1663;
 	
 }
 
 a:hover{
-	color: #ffff66;
+	color: #fffff6;
 	text-align: center;
 }
 
-.about-us{
-	width: 100%;
-	text-align: center;
-	background-color: #0390fc;
-	display: block;
-	text-decoration: none;
-	color: white;
+.second-row{
+	background-color: #08327F;
 }
 
-.woda-mineralna{
-	width: 100%;
-	text-align: center;
-	background-color: #3264a8;
+.row{
 	display: block;
 	text-decoration: none;
 	color: white;
+	width: 100%;
+	text-align: center;
 }
